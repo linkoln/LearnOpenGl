@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lqlin/Documents/GitHub/LearnOpenGl/lighting/lighting_maps/light_maps.cpp
+util/prefix.hpp
+/Users/lqlin/Documents/GitHub/LearnOpenGl/lighting/lighting_maps/util/prefix.hpp
+util/callback.hpp
+/Users/lqlin/Documents/GitHub/LearnOpenGl/lighting/lighting_maps/util/callback.hpp
+shader/Shader.hpp
+/Users/lqlin/Documents/GitHub/LearnOpenGl/lighting/lighting_maps/shader/Shader.hpp
+glm/glm.hpp
+/Users/lqlin/Documents/GitHub/LearnOpenGl/lighting/lighting_maps/glm/glm.hpp
+glm/gtc/matrix_transform.hpp
+/Users/lqlin/Documents/GitHub/LearnOpenGl/lighting/lighting_maps/glm/gtc/matrix_transform.hpp
+glm/gtc/type_ptr.hpp
+/Users/lqlin/Documents/GitHub/LearnOpenGl/lighting/lighting_maps/glm/gtc/type_ptr.hpp
+util/camera.h
+/Users/lqlin/Documents/GitHub/LearnOpenGl/lighting/lighting_maps/util/camera.h
+
